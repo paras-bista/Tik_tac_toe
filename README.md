@@ -14,7 +14,7 @@ A simple command-line Tic-Tac-Toe game built with Python.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/paras-bista/Tik_tac_toe
    ```
 2. Navigate to the project directory:
    ```sh
